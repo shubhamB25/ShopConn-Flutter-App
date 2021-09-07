@@ -7,7 +7,7 @@ ShopConn is flutter and firebase based mobile app
 
 ### Features!
   - shopping platform for buyer as well as seller
-  - Simple and Consistance UI
+  - Simple and Consistence  UI
   - Realtime Chat
   - Faster search results
 
